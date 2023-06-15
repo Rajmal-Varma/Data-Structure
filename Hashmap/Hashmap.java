@@ -9,7 +9,7 @@
 // hashmap is unordered
 // hashmap is not synchronized
 
-//some function of hashmap 
+//some function of hashmap and these has O(1) Time complexity
 //put(key,value)
 //get(key)
 //remove(key)
@@ -51,6 +51,10 @@ public class Hashmap {
         System.out.println(hm.replace(10, "haldi"));
         System.out.println(hm);
         //  System.out.println(hm.containsKey(16));  it will return true and false
+
+
+
+
 
     }
 }
