@@ -1,0 +1,45 @@
+collection framework -: collection framework is a unified 
+architecture for representing and manipulating collections.
+
+collection framework is a set of classes and interfaces that are 
+used to implement collection and data structures in java.
+
+--> Type of collection framework
+1. List
+2. Set
+3. Queue
+4. Map
+
+--> List
+1. ArrayList
+2. LinkedList
+3. Vector
+4. Stack
+
+--> Set
+1. HashSet
+2. LinkedHashSet
+3. TreeSet
+
+--> Queue
+1. PriorityQueue
+2. Deque
+3. ArrayDeque
+
+
+
+
+--> Map
+
+1. HashMap
+2. LinkedHashMap
+3. TreeMap
+4. HashTable
+
+
+
+
+
+
+
+
