@@ -1,0 +1,17 @@
+ Graph - graph is a set of vertices and edges. Graphs are used to solve many real-life problems. 
+ Graphs are used to solve many real-life problems. 
+    Graphs are used to represent networks. The networks may include paths in a city or telephone network or circuit network.
+
+   --  Graphs are also used in social networks like linkedIn, Facebook. For example, in Facebook, each person is represented with a vertex(or node).
+
+    --  Graphs are used in geographical applications to represent networks of communication, 
+         highways, cities, etc. For example, we can represent the cities and their interconnections with edges.
+
+    --  Graphs are used in image processing as well. For example, we can represent any digital
+            image as a graph. Each pixel of the image will be represented with a vertex. Pixels having some relation will be connected through edges.
+
+    --  Graphs are used in recommendation engines. For example, Netflix uses graphs to recommend movies to its users.
+            Also, Google maps uses graphs to find the best route between various locations.
+
+    --  Graphs are used in modeling dependencies in project management software like
+            Microsoft Project. Each project is represented as a vertex(or node) and dependencies between projects are represented as edges(or arcs).
